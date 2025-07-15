@@ -64,10 +64,10 @@ Tested and compared the following models:
 ## 📁 Project Structure
 
 FOOD-RECIPE-RATING-PREDICTION/
-├── datasets/ # Contains train.csv and test.csv
-├── notebooks/ # Jupyter notebook(s) with analysis
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+- ├── datasets/ # Contains train.csv and test.csv
+- ├── notebooks/ # Jupyter notebook(s) with analysis
+- ├── requirements.txt # Python dependencies
+- └── README.md # Project documentation
 
 ---
 
