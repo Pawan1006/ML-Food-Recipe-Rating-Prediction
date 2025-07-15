@@ -89,4 +89,5 @@ FOOD-RECIPE-RATING-PREDICTION/
 
 ## 📎 Credits
 
-- Dataset source: Kaggle-style competition (link omitted per license)
+- Dataset source: [Kaggle – Recipe for Rating: Predict Food Ratings using ML](https://www.kaggle.com/competitions/recipe-for-rating-predict-food-ratings-using-ml)
+- This dataset was part of a college-hosted competition. As there are no license restrictions stated, the dataset is included here for academic and demonstration purposes.
